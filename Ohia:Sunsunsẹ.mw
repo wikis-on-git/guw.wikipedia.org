@@ -1,0 +1,8 @@
+{| style="background-color:lightyellow; border:solid 3px red; padding:1em;" cellpadding="5"
+|[[Image:Icono aviso borrar.png|80px|left]]
+|'''This page is a candidate for speedy deletion.'''
+{{#if:{{{1|}}}|''Reason given:'' {{{1|}}}}}
+|}
+<includeonly>
+[[Category:Candidates for speedy deletion| ]]<!-- or whatever category is appropriate on this wiki -->
+</includeonly>
